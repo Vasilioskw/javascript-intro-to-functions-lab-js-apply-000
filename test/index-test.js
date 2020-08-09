@@ -5,11 +5,6 @@ function whisper(string) {
   return string.toLowerCase()
 }
 
-function sayHiToGrandma(string) {
-return string.toMixedCase
-
-}
-
 describe('shout(string)', function() {
   it('receives one argument and returns it in all caps', function() {
     expect(shout('hello')).toEqual('HELLO')
