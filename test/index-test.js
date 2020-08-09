@@ -5,7 +5,9 @@ function whisper(string) {
   return string.toLowerCase()
 }
 function sayHiToGrandma(hello) {
-  return string "I can\'t hear you!"
+  return "I can't hear you!";
+  
+  function sayHiToGrandma(hello)
 }
 
 describe('shout(string)', function() {
