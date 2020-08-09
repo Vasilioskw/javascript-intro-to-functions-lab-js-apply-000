@@ -9,6 +9,9 @@ function sayHiToGrandma(hello)
   
   function sayHiToGrandma(HELLO)
   to return "YES, INDEED!"
+  
+  function sayHiToGrandma(HELLO)
+  to return "YES, INDEED!"
 
 describe('shout(string)', function() {
   it('receives one argument and returns it in all caps', function() {
