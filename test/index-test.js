@@ -41,4 +41,8 @@ describe('sayHiToGrandma(string)', function() {
   it('returns "I love you, too." if `string` is "I love you, Grandma."`', function() {
     expect(sayHiToGrandma("I love you, Grandma.")).toEqual("I love you, too.")
   })
+  
+  console.log(string.toUpperCase()
+  if 
+  
 })
