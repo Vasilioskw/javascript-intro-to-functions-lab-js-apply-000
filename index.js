@@ -19,8 +19,8 @@ function sayHiToGrandma(string) {
   if (string = uppercase) {
     result = 'YES INDEED';
   }
-  else {
-    result = 'mixedcase';
+ if (string = uppercase) {
+    result = 'YES INDEED';
   }
   return result;
 }
