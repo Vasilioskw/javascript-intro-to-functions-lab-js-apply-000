@@ -42,11 +42,6 @@ describe('sayHiToGrandma(string)', function() {
     expect(sayHiToGrandma("I love you, Grandma.")).toEqual("I love you, too.")
     
     console.log(string.toLowerCase())  If the string is ALREADY all lowercase, return "I can't hear you!"
-  
-
-If the string is ALREADY all uppercase, return "YES INDEED!"
-
-If the string equals exactly: "I love you, Grandma.", then return "I love you, too."
 
   })
   
