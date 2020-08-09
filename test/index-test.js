@@ -8,8 +8,7 @@ function whisper(string) {
 describe('sayHiToGrandma(string')
 it('returns "YES INDEED!" if `string` is uppercase');
 it('returns "I love you, too." if `string` is MixedCase');
-it('returns "HELLO"' is 'string is lowercase');
-
+it('returns "HELLO"') if 'string is lowercase');
 }
 
 describe('shout(string)', function() {
