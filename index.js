@@ -20,7 +20,7 @@ function sayHiToGrandma(string) {
     result = 'YES INDEED';
   }
  if (string = uppercase) {
-    result = 'YES INDEED';
+    result = 'I love you, Grandma.';
   }
   return result;
 }
