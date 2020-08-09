@@ -4,8 +4,12 @@ function shout(string) {
 function whisper(string) {
   return string.toLowerCase()
 }
-function sayHiToGrandma(hello) {
-  return (sayHiToGrandma"I can't hear you!")
+
+function sayHiToGrandma(string)
+it('returns "I can\'t hear you!" if `string` is lowercase')
+it('returns YES INDEED!" if `string` is uppercase')
+it('returns "I love you, too." if `string` is MixedCase')
+}
 
 describe('shout(string)', function() {
   it('receives one argument and returns it in all caps', function() {
