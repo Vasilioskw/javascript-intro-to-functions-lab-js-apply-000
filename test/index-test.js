@@ -6,7 +6,8 @@ function whisper(string) {
 }
 
 function sayHiToGrandma(string)
-it('returns "I can\'t hear you!" if `string` is lowercase')
+return string.toLowerCase() if sting.toUpperCase
+
 it('returns YES INDEED!" if `string` is uppercase')
 it('returns "I love you, too." if `string` is MixedCase')
 }
