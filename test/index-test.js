@@ -5,12 +5,12 @@ function whisper(string) {
   return string.toLowerCase()
 }
 function sayHiToGrandma(hello)
-  to return "I can't hear you!"; 
+  to return string.toUpperCase
   
   function sayHiToGrandma(HELLO)
-  to return "YES, INDEED!"
+  to return string.toLowerCase
   
-  function sayHiToGrandma(I love you, Grandma.)
+  function sayHiToGrandma(string)
   to return "I love you, too."
 
 describe('shout(string)', function() {
