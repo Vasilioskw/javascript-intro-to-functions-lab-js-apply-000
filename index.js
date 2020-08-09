@@ -19,7 +19,7 @@ function sayHiToGrandma(string) {
   if (string = uppercase) {
     result = 'lowercase';
   }
-  if (string = mixedcase) {
+  else {
     result = 'mixedcase';
   }
   return result;
