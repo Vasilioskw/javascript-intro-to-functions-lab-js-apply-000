@@ -5,10 +5,9 @@ function whisper(string) {
   return string.toLowerCase()
 }
 
-function sayHiToGrandma(string.low)
-returns "YES INDEED!" if sayHiToGrandma(string.uppercase);
-returns "I love you, too." if `string` is MixedCase;
-returns "HELLO"' if 'string is lowercase';
+function sayHiToGrandma(string) {
+return string.toMixedCase
+
 }
 
 describe('shout(string)', function() {
