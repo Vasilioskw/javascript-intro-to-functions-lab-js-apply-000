@@ -10,6 +10,7 @@ describe('shout(string)', function() {
     expect(shout('hello')).toEqual('HELLO')
   })
 })
+
 function shout (aWord) {
   return aWord.toUpperCase( );
 }
