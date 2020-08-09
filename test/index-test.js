@@ -4,8 +4,8 @@ function shout(string) {
 function whisper(string) {
   return string.toLowerCase()
 }
-function sayHiToGrandma(string) {
-  return string.to
+function sayHiToGrandma(I can\'t hear you!) {
+  return string.toLowerCase 
 }
 
 describe('shout(string)', function() {
