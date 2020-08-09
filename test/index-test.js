@@ -4,8 +4,10 @@ function shout(string) {
 function whisper(string) {
   return string.toLowerCase()
 }
-function sayHiToGrandma("I can't hear you!") 
-returns (string) is 
+function sayHiToGrandma(string) 
+returns "I can't hear you!" if `string` is lowercase'
+
+if 'sring' is 
 
 describe('shout(string)', function() {
   it('receives one argument and returns it in all caps', function() {
