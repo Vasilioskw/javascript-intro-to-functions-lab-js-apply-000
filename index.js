@@ -15,8 +15,12 @@ function sayHiToGrandma(string) {
   let result;
   if (string = lowercase) {
     result = 'uppercase';
-  } else {
-    result = 'NOT positive';
+  }
+  if (string = uppercase) {
+    result = 'lowercase';
+  }
+  if (string = mixedcase) {
+    result = 'mixedcase';
   }
   return result;
 }
