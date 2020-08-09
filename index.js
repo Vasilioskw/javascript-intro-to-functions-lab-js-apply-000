@@ -13,3 +13,4 @@ function logWhisper (string) {
 
 function logSayHiToGrandma (string) {
   console.log(string.toMixedCase())
+}
