@@ -5,10 +5,10 @@ function whisper(string) {
   return string.toLowerCase()
 }
 
-describe('sayHiToGrandma(string')
-it('returns "YES INDEED!" if `string` is uppercase');
-it('returns "I love you, too." if `string` is MixedCase');
-it('returns "HELLO"') if 'string is lowercase');
+function sayHiToGrandma(string)
+returns "YES INDEED!" if `string` is uppercase;
+returns "I love you, too." if `string` is MixedCase;
+returns "HELLO"' if 'string is lowercase';
 }
 
 describe('shout(string)', function() {
