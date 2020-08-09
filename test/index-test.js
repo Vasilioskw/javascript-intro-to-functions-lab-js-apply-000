@@ -25,6 +25,10 @@ describe('logShout(string)', function() {
 
     expect(spy).toHaveBeenCalledWith('HELLO')
 
+logShout('HELLO')
+
+    expect(spy).toHaveBeenCalledWith('hello')
+
     console.log.restore()
   })
 })
